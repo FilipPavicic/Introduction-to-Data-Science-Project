@@ -5,7 +5,6 @@ Neki datasetovi su u .zip formatu radi manjeg zauzimanja prostora te ako se žel
 
 Drugi dio projekta radio sam s kolegama Dora Doljanin, Jan Grgić i Rene Kustura
 
-## ENGL
 # Introduction to Data Science Project (https://www.fer.unizg.hr/en/course/itds)
 The Goal of this project was to read, research and try to get results from paper: Global Refinement of Random Forest (https://openaccess.thecvf.com/content_cvpr_2015/papers/Ren_Global_Refinement_of_2015_CVPR_paper.pdf)
 
